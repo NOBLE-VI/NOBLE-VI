@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NOBLE-VI
+- 👋 Hi, I’m @NOBLE-VI from India.
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on anything
