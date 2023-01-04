@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me (nikhil.ghorpade@hotmail.com, +91 9049893313)
+- 📫 How to reach me ( ghorpadenikhil94@gmail.com, +91 9049893313 )
 
 <!---
 NOBLE-VI/NOBLE-VI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
