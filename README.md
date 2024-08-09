@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NOBLE-VI from India.
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m a Frontend Web Development.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ( ghorpadenikhil94@gmail.com, +91 9049893313 )
 
